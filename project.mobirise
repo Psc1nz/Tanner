@@ -909,7 +909,7 @@
                 "media": {
                   "image": {
                     "src": "@PROJECT_PATH@/assets/images/eastpack-514x186.jpg",
-                    "link": "https://mobirise.com",
+                    "link": "",
                     "active": true,
                     "alt": "",
                     "title": ""
@@ -921,7 +921,7 @@
                 "media": {
                   "image": {
                     "src": "@PROJECT_PATH@/assets/images/trevelyan-logo-1-514x186.png",
-                    "link": "https://mobirise.com",
+                    "link": "",
                     "active": true,
                     "alt": "",
                     "title": ""
@@ -933,7 +933,7 @@
                 "media": {
                   "image": {
                     "src": "@PROJECT_PATH@/assets/images/seeka-514x186.jpg",
-                    "link": "https://mobirise.com",
+                    "link": "",
                     "active": true,
                     "alt": "",
                     "title": ""
@@ -945,7 +945,7 @@
                 "media": {
                   "image": {
                     "src": "@PROJECT_PATH@/assets/images/g3logo-514x186.png",
-                    "link": "https://mobirise.com",
+                    "link": "",
                     "active": true,
                     "alt": "",
                     "title": ""
@@ -957,7 +957,7 @@
                 "media": {
                   "image": {
                     "src": "@PROJECT_PATH@/assets/images/apata-514x186.jpg",
-                    "link": "https://mobirise.com",
+                    "link": "",
                     "active": true,
                     "alt": "",
                     "title": ""
