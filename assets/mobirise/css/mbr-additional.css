@@ -802,16 +802,6 @@ section.form .container {
 #header3-p .mbr-section-subtitle {
   font-size: 20px;
 }
-#extTestimonials5-c .mbr-section-title {
-  color: #ffffff;
-  font-size: 60px;
-}
-#extTestimonials5-c .mbr-section-subtitle {
-  font-size: 20px;
-}
-#extTestimonials5-c .mbr-section-subtitle B {
-  color: #ffffff;
-}
 #form1-7 .form-control-label {
   color: #232323;
 }
@@ -831,4 +821,11 @@ section.form .container {
 }
 #social-buttons4-w .mbr-section-title {
   color: #000000;
+}
+#msg-box3-y .mbr-section-title,
+#msg-box3-y .lead {
+  color: #000;
+}
+#msg-box3-y .mbr-section-title SPAN {
+  font-size: 32px;
 }

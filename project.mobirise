@@ -23,11 +23,11 @@
       "additionalSetColors": []
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 33,
+    "uniqCompNum": 35,
     "versionPublish": "4.10.8",
     "favicon": "",
     "noImageResize": "",
-    "google-analytics": "",
+    "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\r\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-152866803-1\"></script>\r\n<script>\r\n  window.dataLayer = window.dataLayer || [];\r\n  function gtag(){dataLayer.push(arguments);}\r\n  gtag('js', new Date());\r\n\r\n  gtag('config', 'UA-152866803-1');\r\n</script>\r\n",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
     "siteFonts": [],
@@ -51,12 +51,12 @@
             "showButtons": false,
             "inverse": false,
             "showArrow": false,
-            "imageSize": "55",
-            "bgImageRadio": true,
+            "imageSize": "60",
+            "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/scania-trucks-wallpapers-1920x1200.jpg",
             "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#2e2e2e",
+            "bgColorRadio": true,
+            "bgColor": "#2969b0",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -198,7 +198,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"#top\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">TANNER Contracting Ltd</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Index.html#features3-e\">SERVICES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Index.html#header3-p\">About Us</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Index.html#extFeatures9-u\">The Team</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Index.html#extTestimonials5-c\">Our Clients</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Index.html#form1-7\">CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Index.html#features3-e\">SERVICES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Index.html#header3-p\">About Us</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Index.html#extFeatures9-u\">The Team</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Index.html#form1-7\">CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
         },
         {
           "_inherit": "msg-box8",
@@ -276,7 +276,7 @@
           },
           "title1": "Freight Transport",
           "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "<b>- Long Haul &amp; Freight<br>- Equipment Moves &nbsp; &nbsp;<br>- Fruit Cartage &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<br>- Bulk Transport &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<br>- Silage Bail &amp; Bulk &nbsp; &nbsp;&nbsp;</b>",
+          "caption1": "<b>- Long Haul &amp; Freight &nbsp; &nbsp; &nbsp;&nbsp;<br>- Equipment Transport &nbsp; &nbsp;<br>- Fruit Cartage &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<br>- Bulk Transport &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<br>- Silage Bail &amp; Bulk &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</b><br><b>- Beehives &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</b>",
           "button1": "<a data-app-btn=\"true\" href=\"Index.html#form1-7\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Enquire</a>",
           "media2": {
             "image": {
@@ -291,7 +291,7 @@
           },
           "title2": "Orchard Services",
           "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "<b>- Mulching &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<br>- Mowing &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<br>- Weed Spraying &nbsp;<br>- Fertiliser &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<br>- Compost &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<br>- Ground Hogging</b>",
+          "caption2": "<b>- Mulching &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<br>- Mowing &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<br>- Weed Spraying &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<br>- Fertiliser &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<br>- Compost &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<br>- Broadcast &amp; Banding</b>",
           "button2": "<a data-app-btn=\"true\" href=\"Index.html#form1-7\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Enquire</a>",
           "media3": {
             "image": {
@@ -372,12 +372,12 @@
             "filter": false,
             "images": [
               {
-                "tags": "Awesome",
+                "tags": "Beautiful",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/tanner-orchard-3-750x563.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/tanner-orchard-3-750x563-750x563.jpg",
+                "image": "@PROJECT_PATH@/assets/images/truck-crop-1080x810.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/truck-crop-1080x810-800x600.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
@@ -392,7 +392,8 @@
                 "thumb": "@PROJECT_PATH@/assets/images/tanner-orchard-1-750x563-750x563.jpg",
                 "alt": "",
                 "title": "",
-                "caption": "Type caption here"
+                "caption": "Type caption here",
+                "active": false
               },
               {
                 "tags": "Creative",
@@ -436,29 +437,32 @@
                 "thumb": "@PROJECT_PATH@/assets/images/tanner-orchard-2-750x563-750x563.jpg",
                 "alt": "",
                 "title": "",
-                "caption": "Type caption here"
+                "caption": "Type caption here",
+                "active": false
               },
               {
                 "tags": "Responsive",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/tanner-orchard-4-750x563.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/tanner-orchard-4-750x563-750x563.jpg",
+                "image": "@PROJECT_PATH@/assets/images/thumbnail-1080x810.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/thumbnail-1080x810-800x600.jpg",
                 "alt": "",
                 "title": "",
-                "caption": "Type caption here"
+                "caption": "Type caption here",
+                "active": false
               },
               {
-                "tags": "Animated",
+                "tags": "Beautiful",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/tanner-bail-1-750x563.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/tanner-bail-1-750x563-750x563.jpg",
+                "image": "@PROJECT_PATH@/assets/images/thumbnail-2-1080x810.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/thumbnail-2-1080x810-800x600.jpg",
                 "alt": "",
                 "title": "",
-                "caption": "Type caption here"
+                "caption": "Type caption here",
+                "active": false
               }
             ]
           },
@@ -486,7 +490,7 @@
             "bgColor": "#fff"
           },
           "title": "About Us<br><br>",
-          "meta": "Tanner Contracting Ltd has been providing outstanding services throughout the Bay of Plenty for many years. <br>Paul has a vast amount of experience in operating and transporting machineries.<br>He oversees the business side of the company whilst remaining hands on.<br>His drivers are experienced and customer focused.<br>\"We pride ourselves in delivery the best service at a competitive price!\"",
+          "meta": "Paul has worked in Freight Transport and Orchard Services for many years and has a massive passion for both industries. Tanner Contracting Ltd and their valued staff take pride in doing “what they do best” to make sure their customer is truly satisfied with a job well done in a timely manner.",
           "_tags": [
             "Theme"
           ],
@@ -542,7 +546,7 @@
           },
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/220px-rizzo-the-rat-220x226.jpg",
+              "src": "@PROJECT_PATH@/assets/images/gonzo-the-great-220x226.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -553,7 +557,7 @@
           },
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/220px-fozzie-bear-220x226.jpg",
+              "src": "@PROJECT_PATH@/assets/images/220px-animal-muppet-220x226.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -564,7 +568,7 @@
           },
           "media5": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/gonzo-the-great-220x226.jpg",
+              "src": "@PROJECT_PATH@/assets/images/220px-fozzie-bear-220x226.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -575,7 +579,7 @@
           },
           "media6": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/220px-animal-muppet-220x226.jpg",
+              "src": "@PROJECT_PATH@/assets/images/220px-rizzo-the-rat-220x226.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -585,25 +589,25 @@
             }
           },
           "title": "The Team",
-          "subtitle": "We think about logistics so you don't have to",
+          "subtitle": "\"We pride ourselves in delivering the best service at a competitive price!\"",
           "title1": "Paul Tanner",
           "subtitle1": "The Boss",
-          "caption1": "Best to ring and talk to (but follow up with an email)",
+          "caption1": "Paul has a passion for what he does. He started many years ago with one Truck and since then the Company and the passion has grown. Best to ring and talk to (but follow up with an email)",
           "title2": "Paula Wardell",
           "subtitle2": "Admin",
-          "caption2": "Paula is the engine room",
-          "title3": "Jack Green",
+          "caption2": "Behind every well-oiled machine is a driver who keeps it running smoothly, Working behind the scenes to keep the wheels turning.",
+          "title3": "Jamie Gordon",
           "subtitle3": "Driver",
-          "caption3": "Jack loves driving tractors and rearranging the furniture",
-          "title4": "Hamish Young",
+          "caption3": "Jamie’s a man on a mission, he is a very experienced driver, who is also a devoted family man.&nbsp;",
+          "title4": "Daniel Marsden",
           "subtitle4": "Driver",
-          "caption4": "Hamish look like he needs to be planted in the garden with a fishing pole in his hands \"dopey as\"&nbsp;",
-          "title5": "Jamie Gordon",
+          "caption4": "Daniel takes pride in his truck and everything he does with it. “drives some big trucks for a small guy”",
+          "title5": "Hamish Young",
           "subtitle5": "Driver",
-          "caption5": "Long thin streak of weasels.<br>A very experienced driver",
-          "title6": "Daniel Marsden",
+          "caption5": "Hamish gets the job done, give him a machine and he will operate it!",
+          "title6": "Jack Green",
           "subtitle6": "Driver",
-          "caption6": "Just a nice guy. <br>Drives big trucks for a little guy.",
+          "caption6": "Jack is a young guy who works hard and plays hard, he is learning more and more by the day.",
           "media1_1": {
             "iconFont": {
               "active": true,
@@ -876,113 +880,6 @@
           "_anchor": "extFeatures9-u"
         },
         {
-          "alias": "mobirise3-blocks/components",
-          "_tags": [
-            "Extension"
-          ],
-          "_name": "extTestimonials5",
-          "_params": {
-            "showTitle": true,
-            "showSubtitle": true,
-            "autoplay": true,
-            "timeout": "1",
-            "paddingTop": 2,
-            "paddingBottom": 1,
-            "showArrows": true,
-            "showBullets": true,
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/w99vwu8-scania-truck-wallpaper-2000x1800.jpg",
-            "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#fff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#000",
-            "overlayOpacity": 0.5,
-            "visibleSlides": "3",
-            "slides": [
-              {
-                "active": false,
-                "media": {
-                  "image": {
-                    "src": "@PROJECT_PATH@/assets/images/eastpack-514x186.jpg",
-                    "link": "",
-                    "active": true,
-                    "alt": "",
-                    "title": ""
-                  }
-                }
-              },
-              {
-                "active": false,
-                "media": {
-                  "image": {
-                    "src": "@PROJECT_PATH@/assets/images/trevelyan-logo-1-514x186.png",
-                    "link": "",
-                    "active": true,
-                    "alt": "",
-                    "title": ""
-                  }
-                }
-              },
-              {
-                "active": false,
-                "media": {
-                  "image": {
-                    "src": "@PROJECT_PATH@/assets/images/seeka-514x186.jpg",
-                    "link": "",
-                    "active": true,
-                    "alt": "",
-                    "title": ""
-                  }
-                }
-              },
-              {
-                "active": false,
-                "media": {
-                  "image": {
-                    "src": "@PROJECT_PATH@/assets/images/g3logo-514x186.png",
-                    "link": "",
-                    "active": true,
-                    "alt": "",
-                    "title": ""
-                  }
-                }
-              },
-              {
-                "active": true,
-                "media": {
-                  "image": {
-                    "src": "@PROJECT_PATH@/assets/images/apata-514x186.jpg",
-                    "link": "",
-                    "active": true,
-                    "alt": "",
-                    "title": ""
-                  }
-                }
-              }
-            ]
-          },
-          "_anchor": "extTestimonials5-c",
-          "title": "OUR CLIENTS",
-          "subtitle": "<b style=\"font-style: normal;\">Your partner for the long haul</b>",
-          "_styles": {
-            ".mbr-section-title": {
-              "color": "#ffffff",
-              "font-size": "60px"
-            },
-            ".mbr-section-subtitle": {
-              "font-size": "20px"
-            },
-            ".mbr-section-subtitle B": {
-              "color": "#ffffff"
-            }
-          }
-        },
-        {
           "_tags": [
             "Theme"
           ],
@@ -1015,7 +912,7 @@
             "overlayOpacity": 0.5
           },
           "title": "CONTACT FORM",
-          "subtitle": "<b>Or call us on 0274 664 234</b>",
+          "subtitle": "<b>Or call us on&nbsp;027 498 6126</b>",
           "form": {
             "action": "paul.tanner@xtra.co.nz",
             "alerts": {
@@ -1080,6 +977,44 @@
           "_anchor": "social-buttons4-w"
         },
         {
+          "_inherit": "msg-box8",
+          "_styles": {
+            ".mbr-section-title, .lead": {
+              "color": "#000"
+            },
+            ".mbr-section-title SPAN": {
+              "font-size": "32px"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButton": false,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#cccccc",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "<span style=\"font-weight: normal;\"><i>Furthermore</i></span>",
+          "text": "<p><i>In the event our Freight Transport and Orchard Services cannot cater for your specific needs w<span style=\"font-size: 1.07rem;\">e will recommend <b>https://booths.co.nz</b> for more specialised transport solutions</span></i></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"index.html#form1-7\" data-toolbar=\"-mbrBtnMove\">SEE ALL TEMPLATES</a>",
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-y"
+        },
+        {
           "_tags": [
             "Theme"
           ],
@@ -1113,7 +1048,7 @@
             }
           },
           "text1": "<strong>Address</strong><br>329 rangiuru rd<br>RD8<br>Te Puke 3188",
-          "text2": "<strong>Contacts</strong><br>\nEmail: paul.tanner@xtra.co.nz<br>\nPhone: 0274 664 234<br><br>",
+          "text2": "<strong>Contacts</strong><br>\nEmail: paul.tanner@xtra.co.nz<br>\nPhone: 027 498 6126<br><br>",
           "text3": ""
         },
         {
@@ -1134,7 +1069,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright (c) 2019 Tanner Contracting ltd."
+          "text": "<a href=\"#top\" class=\"text-warning\">Copyright (c) 2019 Tanner Contracting ltd.</a>"
         }
       ]
     }
