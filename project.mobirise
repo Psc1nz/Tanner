@@ -69,7 +69,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/tanner-main-960x720.jpeg",
+              "src": "@PROJECT_PATH@/assets/images/thumbnail-3-960x720.jpg",
               "link": "",
               "alt": "",
               "title": ""
@@ -1047,7 +1047,7 @@
               "size": 0
             }
           },
-          "text1": "<strong>Address</strong><br>329 rangiuru rd<br>RD8<br>Te Puke 3188",
+          "text1": "<strong>Address</strong><br>329 Rangiuru rd<br>RD8<br>Te Puke 3188",
           "text2": "<strong>Contacts</strong><br>\nEmail: paul.tanner@xtra.co.nz<br>\nPhone: 027 498 6126<br><br>",
           "text3": ""
         },
